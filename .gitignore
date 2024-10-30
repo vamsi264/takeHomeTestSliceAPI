@@ -1,0 +1,17 @@
+*~
+.DS_Store
+.gradle/
+.gradle
+.idea
+build
+classes
+target
+out
+gradle
+gradlew
+gradlew.bat
+.iml
+*.iml
+*.jpg
+Screenshots
+*.html
